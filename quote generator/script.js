@@ -14,3 +14,4 @@ function generateQuote(){
      document.getElementById("author").innerHTML=author;
      document.getElementById("msg").innerHTML=quotes[author];
 }
+generateQuote();
