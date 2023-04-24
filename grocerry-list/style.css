@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grocerry{
+    width: 80%;
+    min-height: 100dvh;
+    background-color: aliceblue;
+}
+.inp{
+    min-width: 80vh;
+    margin-left: 10%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+h1{
+    justify-content: center;
+    margin-left: 30%;
+    font-family: italic;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#pencil{
+    font-size: 20px;
+    color: coral;
+    margin-left: 20px;
+}
+
+#input{
+    text-decoration: none;
+    padding: 5px;
+    outline: none;
+    width: 70%;
+    margin-right: 10%;
+    font-size: 20px;
+    border: 0;
+    border-bottom: 2px solid black;
+    background: transparent;
+}
+#result{
+    font-size: 18px;
+    color: black;
+    margin-left: 50px;
+}
+
+
+
+
+
